@@ -1,2 +1,3 @@
 rootProject.name = 'JavaPro'
+include 'hw01-gradle'
 
